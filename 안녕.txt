@@ -1,1 +1,5 @@
-안녕
+ public class 안녕{
+	
+	systemPrintln("이거 안날림~")
+
+}
